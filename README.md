@@ -1,4 +1,4 @@
-# Get-daily-infection-cases-Osaka-JPN-with-tabula-and-bs4-requests
+# Get-daily-positive-cases-Osaka-JPN-with-tabula-and-bs4-requests
 大阪のコロナ感染者速報情報(PDF)をpython requests, bs4, tabula, pandasライブラリを使用してcsvにためていく練習
 
 
